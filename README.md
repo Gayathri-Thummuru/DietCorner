@@ -16,10 +16,15 @@ This web application helps users generate personalized diet plans based on their
 
 ## 🖼️ Screenshots
 
+## Home
 ![DietHome](https://github.com/user-attachments/assets/a5bba70a-1efa-4364-9db7-8ba70801627c)
+## Register
 ![DietRegister](https://github.com/user-attachments/assets/7270d6df-f0f6-4136-918b-139f9e7f2cca)
+## Login
 ![DietLogin](https://github.com/user-attachments/assets/934c04f4-8c94-4d1c-b6e7-0f214db19166)
+## Plan
 ![DietPlan](https://github.com/user-attachments/assets/80056e28-ff34-4474-87ea-8e37e1b80ad3)
+## Output
 ![DietExample1](https://github.com/user-attachments/assets/df08b188-90d4-4883-a910-242a8614d2c8)
 
 
@@ -53,5 +58,5 @@ This web application helps users generate personalized diet plans based on their
 
 ---
 
-🙋‍♂️ Author
-Thummuru Gayathri
+## 🙋‍♂️ Author
+-Thummuru Gayathri
