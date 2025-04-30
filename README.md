@@ -59,4 +59,4 @@ This web application helps users generate personalized diet plans based on their
 ---
 
 ## 🙋‍♂️ Author
--Thummuru Gayathri
+Thummuru Gayathri
