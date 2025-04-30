@@ -52,3 +52,6 @@ This web application helps users generate personalized diet plans based on their
 - **Database**: MySQL
 
 ---
+
+🙋‍♂️ Author
+Thummuru Gayathri
